@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{338D8E46-A26F-E7E1-D104-E524736ACBD9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TabsManager.cs">
+    <Files>
+      <File FileName="Assets/TabsManager.cs" Line="32" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TabTest" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="TabsManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b9ace5db-24f2-4230-876d-dd346c068f2e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
